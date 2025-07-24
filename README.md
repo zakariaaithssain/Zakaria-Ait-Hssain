@@ -40,12 +40,4 @@ Building a comprehensive knowledge graph for **prostate and gastric cancers** th
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 💡 **Open to collaborations** in webscraping, data processing, machine learning, and knowledge graph applications!
