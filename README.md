@@ -1,37 +1,73 @@
-# 👋 Hi, I'm ZAKARIA AIT HSSAIN
+<h1 align="center">Hey 👋 I'm Zakaria,<br> An AI and software engineering student.</h1>
 
-## AI Engineering Student.
+###
 
-I'm passionate about extracting actionable insights from real world data. My work combines web scraping, data processing, and machine learning to unlock hidden relationships in unstructured data
+<h2 align="left">Primary Language:</h2>
 
----
+###
 
-## 🛠️ Technologies & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo"  />
+</div>
 
-**Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Cypher](https://img.shields.io/badge/-Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+###
 
-**Machine Learning & NLP**
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square)
+<h2 align="left">Other Languages:</h2>
 
-**Databases & Visualization**
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
+</div>
 
-**DevOps & Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+###
 
----
+<h2 align="left">DataBases:</h2>
 
-💡 **Open to collaborations** in webscraping, data processing, machine learning, and knowledge graph applications!
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="47" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="47" alt="neo4j logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="47" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="47" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="47" alt="githubactions logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="47" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="47" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="47" alt="jupyter logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="47" alt="bash logo"  />
+</div>
+
+###
+
+<h2 align="left">Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariaaithssain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=zakariaaithssain&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaaithssain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
