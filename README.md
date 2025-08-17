@@ -2,29 +2,21 @@
 
 ###
 
-<h2 align="left">Primary Language:</h2>
+<h2 align="left">Languages:</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Other Languages:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo"  />
 </div>
 
 ###
 
-<h2 align="left">DataBases:</h2>
+<h2 align="left">Stack:</h2>
 
 ###
 
@@ -34,15 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="47" alt="mongodb logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="47" alt="neo4j logo"  />
-</div>
-
-###
-
-<h2 align="left">Tools:</h2>
-
-###
-
-<div align="left">
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="47" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="47" alt="github logo"  />
