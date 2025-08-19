@@ -1,15 +1,8 @@
 <h1 align="center">Hey 👋 I'm Zakaria,<br> An AI and software engineering student.</h1>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/zakariaithssain" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="47" alt="linkedin logo"  />
   </a>
-  <a href="zakaria04aithssain@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="67" height="47" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
