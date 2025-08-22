@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Zakaria,<br> An AI and software engineering student.</h1>
+<h1 align="center">Hey 👋 I'm Zakaria,<br>AI and software engineering student.</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/zakariaithssain" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="47" alt="linkedin logo"  />
@@ -13,9 +13,10 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
+  
 </div>
 
 ###
